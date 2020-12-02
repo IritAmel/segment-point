@@ -1,0 +1,11 @@
+אם הכל תקין, הפלט שיופיע ייראה כך :
+
+============ Testing class Segment1 =============
+============ Testing class Segment1 Done =============
+
+אם יש בעיות אפשריות הפלט שיופיע עשוי להיראות כך :
+
+============ Testing class Segment1 =============
+Check your equals method in class Segment1 
+Check your toString method in class Segment1 
+============ Testing class Segment1 Done =============

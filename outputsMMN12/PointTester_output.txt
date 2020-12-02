@@ -1,0 +1,11 @@
+אם הכל תקין, הפלט שיופיע ייראה כך :
+
+============ Testing class Point =============
+============ Testing class Point Done =============
+
+אם יש בעיות אפשריות הפלט שיופיע עשוי להיראות כך :
+
+============ Testing class Point =============
+Check your equals method in class Point
+Check your toString method in class Point
+============ Testing class Point Done =============
